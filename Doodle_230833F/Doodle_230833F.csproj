@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5364C199-D72D-4DAA-B72D-09BB449E6350}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Doodle_230833F</RootNamespace>
+    <AssemblyName>Doodle_230833F</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>PaintDoodleIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainForm_230833F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm_230833F.Designer.cs">
+      <DependentUpon>MainForm_230833F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoundPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="MainForm_230833F.resx">
+      <DependentUpon>MainForm_230833F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil-lower-left.256x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earser.256x233.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paint-roller.230x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paint-palette.256x236.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color-picker.220x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floppy-disk.256x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush.253x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font.254x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paint-brush.178x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ColorPicker.scale-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ColorPickerTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TextTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EraserTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-microsoft-paint-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SizeButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PencilTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\strikethrough.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\italic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\underline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaintDoodleIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaintBrush.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BrushIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FillTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charcoal_brush_transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charcoal_brush_transparent_v2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charcoal_brush_final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charcoal_brush_transparency1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imageedit_3_2974684521.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imageedit_3_6989360169.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trans.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watercolor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watercolour.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watercolorlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BrushSwoosh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OvalTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HexagonTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RectangleTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RightTriangleTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LineTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PentagonTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TriangleTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FivePointStarTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourPointStarTool %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourPointStarTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixPointStarTool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Poop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Happy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CanvasSize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cursor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tbrush5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upscaled_trans.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watercolor-4629342_1280.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watercolor-4629342_12820.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\campus.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil_50x29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil_1_55x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marker_50x29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sqaure_50x29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charcoal_50x29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watercolor_50x29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENTER_press.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BACKSPACE_press.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SPACE_press.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GENERIC_R1_press.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PaintDoodleIcon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

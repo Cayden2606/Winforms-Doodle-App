@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|c:\\!ege202-p\\proj02-e1-01-230833f-cayden miguel theseira\\proj02-e1-01-230833f-cayden miguel theseira\\doodle_230833f\\doodle_230833f\\mainform_230833f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|solutionrelative:doodle_230833f\\mainform_230833f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Doodle_230833F||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\doodle_230833f\\mainform_230833f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|solutionrelative:doodle_230833f\\mainform_230833f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\doodle_230833f\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|solutionrelative:doodle_230833f\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\doodle_230833f\\mainform_230833f.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|solutionrelative:doodle_230833f\\mainform_230833f.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\doodle_230833f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|solutionrelative:doodle_230833f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\doodle_230833f\\resources\\canvassize.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|solutionrelative:doodle_230833f\\resources\\canvassize.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\doodle_230833f\\resources\\cursor.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|solutionrelative:doodle_230833f\\resources\\cursor.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\doodle_230833f\\roundpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|solutionrelative:doodle_230833f\\roundpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\doodle_230833f\\roundpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5364C199-D72D-4DAA-B72D-09BB449E6350}|Doodle_230833F\\Doodle_230833F.csproj|solutionrelative:doodle_230833f\\roundpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Doodle_230833F\\Properties\\Resources.resx",
+              "ToolTip": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\Properties\\Resources.resx",
+              "RelativeToolTip": "Doodle_230833F\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-03T15:57:35.275Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm_230833F.cs",
+              "DocumentMoniker": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\MainForm_230833F.cs",
+              "RelativeDocumentMoniker": "Doodle_230833F\\MainForm_230833F.cs",
+              "ToolTip": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\MainForm_230833F.cs",
+              "RelativeToolTip": "Doodle_230833F\\MainForm_230833F.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAAAPABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:11:22.649Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doodle_230833F",
+              "DocumentMoniker": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\Doodle_230833F.csproj",
+              "RelativeDocumentMoniker": "Doodle_230833F\\Doodle_230833F.csproj",
+              "ToolTip": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\Doodle_230833F.csproj",
+              "RelativeToolTip": "Doodle_230833F\\Doodle_230833F.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-11T14:47:31.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm_230833F.cs [Design]",
+              "DocumentMoniker": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\MainForm_230833F.cs",
+              "RelativeDocumentMoniker": "Doodle_230833F\\MainForm_230833F.cs",
+              "ToolTip": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\MainForm_230833F.cs [Design]",
+              "RelativeToolTip": "Doodle_230833F\\MainForm_230833F.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:03:20.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\Program.cs",
+              "RelativeDocumentMoniker": "Doodle_230833F\\Program.cs",
+              "ToolTip": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\Program.cs",
+              "RelativeToolTip": "Doodle_230833F\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:08:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm_230833F.Designer.cs",
+              "DocumentMoniker": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\MainForm_230833F.Designer.cs",
+              "RelativeDocumentMoniker": "Doodle_230833F\\MainForm_230833F.Designer.cs",
+              "ToolTip": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\MainForm_230833F.Designer.cs",
+              "RelativeToolTip": "Doodle_230833F\\MainForm_230833F.Designer.cs",
+              "ViewState": "AgIAALoEAAAAAAAAAAAAANAEAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:46:47.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CanvasSize.png -  [English (United States)] - PNG [38x38, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\Resources\\CanvasSize.png",
+              "RelativeDocumentMoniker": "Doodle_230833F\\Resources\\CanvasSize.png",
+              "ToolTip": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\Resources\\CanvasSize.png -  [English (United States)] - PNG [38x38, 32 bit, PNG]",
+              "RelativeToolTip": "Doodle_230833F\\Resources\\CanvasSize.png -  [English (United States)] - PNG [38x38, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-05T02:19:29.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cursor.png -  [English (United States)] - PNG [38x38, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\Resources\\Cursor.png",
+              "RelativeDocumentMoniker": "Doodle_230833F\\Resources\\Cursor.png",
+              "ToolTip": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\Resources\\Cursor.png -  [English (United States)] - PNG [38x38, 32 bit, PNG]",
+              "RelativeToolTip": "Doodle_230833F\\Resources\\Cursor.png -  [English (United States)] - PNG [38x38, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-05T02:28:26.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoundPictureBox.cs",
+              "DocumentMoniker": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\RoundPictureBox.cs",
+              "RelativeDocumentMoniker": "Doodle_230833F\\RoundPictureBox.cs",
+              "ToolTip": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\RoundPictureBox.cs",
+              "RelativeToolTip": "Doodle_230833F\\RoundPictureBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:43:02.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoundPictureBox.cs [Design]",
+              "DocumentMoniker": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\RoundPictureBox.cs",
+              "RelativeDocumentMoniker": "Doodle_230833F\\RoundPictureBox.cs",
+              "ToolTip": "C:\\!EGE202-P\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\\Doodle_230833F\\Doodle_230833F\\RoundPictureBox.cs [Design]",
+              "RelativeToolTip": "Doodle_230833F\\RoundPictureBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:42:59.704Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+C:\!EGE202-P\Doodle_230833F\Doodle_230833F\bin\Debug\Doodle_230833F.exe.config
+C:\!EGE202-P\Doodle_230833F\Doodle_230833F\bin\Debug\Doodle_230833F.exe
+C:\!EGE202-P\Doodle_230833F\Doodle_230833F\bin\Debug\Doodle_230833F.pdb
+C:\!EGE202-P\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.csproj.AssemblyReference.cache
+C:\!EGE202-P\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.MainForm_230833F.resources
+C:\!EGE202-P\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.Properties.Resources.resources
+C:\!EGE202-P\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.csproj.GenerateResource.cache
+C:\!EGE202-P\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.csproj.CoreCompileInputs.cache
+C:\!EGE202-P\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.exe
+C:\!EGE202-P\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.pdb
+C:\!EGE202-P\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\Doodle_230833F\Doodle_230833F\bin\Debug\Doodle_230833F.exe.config
+C:\!EGE202-P\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\Doodle_230833F\Doodle_230833F\bin\Debug\Doodle_230833F.exe
+C:\!EGE202-P\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\Doodle_230833F\Doodle_230833F\bin\Debug\Doodle_230833F.pdb
+C:\!EGE202-P\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.csproj.AssemblyReference.cache
+C:\!EGE202-P\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.Properties.Resources.resources
+C:\!EGE202-P\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.csproj.GenerateResource.cache
+C:\!EGE202-P\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.csproj.CoreCompileInputs.cache
+C:\!EGE202-P\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.exe
+C:\!EGE202-P\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.pdb
+C:\!EGE202-P\PROJ02-E1-01-230833F-CAYDEN MIGUEL THESEIRA\Doodle_230833F\Doodle_230833F\obj\Debug\Doodle_230833F.MainForm_230833F.resources
