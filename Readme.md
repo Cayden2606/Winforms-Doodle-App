@@ -1,6 +1,3 @@
-Here’s the updated `README.md` file with your personal details removed and the correct framework specified:  
-
-```markdown
 # Doodle Paint Enhancement
 
 ## Overview
@@ -69,6 +66,3 @@ Contributions are welcome! Feel free to submit issues or pull requests for addit
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-```
-
-This version is tailored to a WinForms project running on .NET Framework 4.8. Let me know if you'd like any further adjustments!
