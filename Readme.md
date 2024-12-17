@@ -3,6 +3,8 @@
 ## Overview
 **Doodle Paint** is a feature-rich painting and graphics application built using **WinForms** and **.NET Framework 4.8**. This project enhances the existing application with a range of new functionalities, focusing on drawing, text handling, color customization, and user interaction.
 
+![Screenshot of Doodle](./Paint.png)
+
 ---
 
 ## Features
